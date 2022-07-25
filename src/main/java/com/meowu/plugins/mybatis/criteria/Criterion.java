@@ -2,6 +2,8 @@ package com.meowu.plugins.mybatis.criteria;
 
 import com.google.common.base.Joiner;
 import com.meowu.commons.utils.AssertUtils;
+import com.meowu.commons.utils.ReflectionUtils;
+import com.meowu.plugins.mybatis.mysql.utils.FieldUtils;
 import lombok.Getter;
 import lombok.Setter;
 
